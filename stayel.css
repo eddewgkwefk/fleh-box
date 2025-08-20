@@ -1,0 +1,39 @@
+
+  .ikki{
+     display: flex;
+     justify-content: space-between;
+
+}
+ .uch{
+     font-size: 30px;
+     text-align: center;
+
+ }
+ .tor{
+     background-color: red;
+     width: 558px;
+     height: 552px; 
+     font-size: 100px;
+     text-align: center;
+     top: 448px;
+     left: 63px;
+     margin: 0 auto;
+     
+ }
+ .besh{
+  
+      background-color: red;
+     width: 558px;
+     height: 552px; 
+     font-size: 100px;
+     top: 448px;
+     left: 63px;
+     text-align: center;
+     margin-right: 0 auto;
+
+ }
+ .olti{
+     display: flex;
+     justify-content: space-between;
+ }
+     
